@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Happy Jekylling!"
+title: "Paddleboard Cape Cod"
 ---
 
-## You're ready to go!
+## This guide to paddleboarding spots on Cape Cod and the Islands is under development!
 
-Start developing your Jekyll website.
+Enter your email address below to be notified when the site launches.
